@@ -1,0 +1,16 @@
+C:\repos\socket-sample\socket-sample\bin\Debug\net5.0\socket-sample.exe
+C:\repos\socket-sample\socket-sample\bin\Debug\net5.0\socket-sample.deps.json
+C:\repos\socket-sample\socket-sample\bin\Debug\net5.0\socket-sample.runtimeconfig.json
+C:\repos\socket-sample\socket-sample\bin\Debug\net5.0\socket-sample.runtimeconfig.dev.json
+C:\repos\socket-sample\socket-sample\bin\Debug\net5.0\socket-sample.dll
+C:\repos\socket-sample\socket-sample\bin\Debug\net5.0\socket-sample.pdb
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.csproj.AssemblyReference.cache
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.AssemblyInfoInputs.cache
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.AssemblyInfo.cs
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.csproj.CoreCompileInputs.cache
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.dll
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\refint\socket-sample.dll
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.pdb
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\socket-sample.genruntimeconfig.cache
+C:\repos\socket-sample\socket-sample\obj\Debug\net5.0\ref\socket-sample.dll
